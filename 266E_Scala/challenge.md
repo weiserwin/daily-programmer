@@ -1,4 +1,4 @@
-# https://www.reddit.com/r/dailyprogrammer/comments/4ijtrt/20160509_challenge_266_easy_basic_graph/
+# https://redd.it/4ijtrt
 
 This week I'll be posting a series of challenges on graph theory. I picked a series of challenges that can help introduce you to the concepts and terminology, I hope you find it interesting and useful.
 ####Description
@@ -8,7 +8,7 @@ In graph theory, the degree of a node is the number of edges coming into it or g
 
 First you'll be given an integer, N, on one line showing you how many nodes to account for. Next you'll be given an undirected graph as a series of number pairs, a and b, showing that those two nodes are connected - an edge. Example:
 ```
-3 
+3
 1 2
 1 3
 ```
@@ -103,4 +103,3 @@ Node 14 has a degree of 5
 Node 15 has a degree of 9
 Node 16 has a degree of 9
 ```
-

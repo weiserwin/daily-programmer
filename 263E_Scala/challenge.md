@@ -1,11 +1,11 @@
-# https://www.reddit.com/r/dailyprogrammer/comments/4fc896/20160418_challenge_263_easy_calculating_shannon/
+# https://redd.it/4fc896
 
 Shannon entropy was introduced by Claude E. Shannon in his 1948 paper "A Mathematical Theory of Communication". Somewhat related to the physical and chemical concept entropy, the Shannon entropy measures the uncertainty associated with a random variable, i.e. the expected value of the information in the message (in classical informatics it is measured in bits). This is a key concept in information theory and has consequences for things like compression, cryptography and privacy, and more.
 The Shannon entropy H of input sequence X is calculated as -1 times the sum of the frequency of the symbol i times the log base 2 of the frequency
 For more, see Wikipedia for Entropy in information theory).
 
-Input Description : 
-You'll be given a string, one per line, for which you should calculate the Shannon entropy. 
+Input Description :
+You'll be given a string, one per line, for which you should calculate the Shannon entropy.
 ```
 Examples:
 1223334444

@@ -1,4 +1,4 @@
-#https://www.reddit.com/r/dailyprogrammer/comments/4eaeff/20160411_challenge_262_easy_maybenumeric/
+# https://redd.it/4eaeff
 MaybeNumeric is a function that returns either a number or a string depending on whether the input (string) is a valid description of a number.
 sample input (string)
 

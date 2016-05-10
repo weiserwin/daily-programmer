@@ -1,4 +1,4 @@
-# https://www.reddit.com/r/dailyprogrammer/comments/4hhiu8/20160502_challenge_265_easy_permutations_and/
+# https://redd.it/4hhiu8
 
 #### Permutations
 
